@@ -41,7 +41,7 @@
 ### 📫 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/md-shah-mostafa-shawon)
-- 📧 Email: **shawon.ru.cse@gmail.com**
+- 📧 Email: **khanshwawon1511@gmail.com**
 - 🧠 Codeforces: [@shawon2111176125](https://codeforces.com/profile/shawon2111176125)
 - 🌐 Portfolio: *Coming soon...*
 
