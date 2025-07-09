@@ -6,7 +6,7 @@
 ### 💫 About Me
 
 - 🎓 I’m currently studying **Computer Science and Engineering (CSE)**
-- 💻 I love exploring new tech and building projects that solve real problems
+- 💻 I love exploring new tech and building projects that solve real
 - ⚡ Currently learning **Flutter, Laravel, and OS-level Programming (C/C++)**
 - 🚀 Competitive Programming enthusiast — solving problems on **Codeforces & LeetCode**
 - 📘 Always looking to grow as a developer and collaborate on open-source
